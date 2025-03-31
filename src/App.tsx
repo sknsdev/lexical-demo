@@ -68,7 +68,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Редактор для Известий на Lexical.js</h1>
+      <h1>Lexical.js</h1>
       <LexicalComposer initialConfig={editorConfig}>
         <Toolbar onExportHTML={setHtmlOutput} />
         <div className="editor-container">
