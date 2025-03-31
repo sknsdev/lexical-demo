@@ -22,7 +22,7 @@ function Placeholder() {
 }
 
 const editorConfig = {
-  namespace: 'IzvestiaEditor',
+  namespace: 'Editor',
   nodes: [
     HeadingNode,
     ListNode,
